@@ -6,7 +6,7 @@
 #include <SoftwareSerial.h>   //TODO need to set due to some weird wire language linker, should we absorb this whole library into smartthings
 #include <SmartThings.h>
 #include <Servo.h>
-
+//test
 
 #define PIN_THING_RX    3
 #define PIN_THING_TX    2
